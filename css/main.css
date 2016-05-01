@@ -1,5 +1,5 @@
-.container{
-	background-color: blue;
+.navbar-inverse{
+	background-color: none !important;
 }
 nav{
 	width: 100%;
